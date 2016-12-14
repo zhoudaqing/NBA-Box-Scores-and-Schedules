@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "NBA Games and Box Scores",
+  "description": "An NBA Extension created by Dominick Lam.",
+  "version": "1.0",
+  "content_security_policy": "script-src 'self' https://*.googleapis.com; object-src 'self'",
+  
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "windows": "Ctrl+Shift+X",
+        "mac": "Command+Shift+X",
+        "chromeos": "Ctrl+Shift+X",
+        "linux": "Ctrl+Shift+X"
+      }
+    }
+  },
+
+  "browser_action": {
+    // "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "NBA Games and Box Scores"
+  }
+}

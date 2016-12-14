@@ -1,0 +1,1224 @@
+400899375/October 25, 2016/New York Knicks/Cleveland Cavaliers
+400899376/October 25, 2016/Utah Jazz/Portland Trail Blazers
+400899377/October 25, 2016/San Antonio Spurs/Golden State Warriors
+400899378/October 26, 2016/Miami Heat/Orlando Magic
+400899379/October 26, 2016/Dallas Mavericks/Indiana Pacers
+400899380/October 26, 2016/Brooklyn Nets/Boston Celtics
+400899381/January 1, 2017/Detroit Pistons/Miami Heat
+400899382/October 26, 2016/Detroit Pistons/Toronto Raptors
+400899383/January 1, 2017/Orlando Magic/Indiana Pacers
+400899384/October 26, 2016/Charlotte Hornets/Milwaukee Bucks
+400899385/January 1, 2017/Portland Trail Blazers/Minnesota Timberwolves
+400899386/October 26, 2016/Minnesota Timberwolves/Memphis Grizzlies
+400899387/January 1, 2017/Toronto Raptors/Los Angeles Lakers
+400899388/October 26, 2016/Denver Nuggets/New Orleans Pelicans
+400899389/October 26, 2016/Oklahoma City Thunder/Philadelphia 76ers
+400899390/April 1, 2017/Atlanta Hawks/Chicago Bulls
+400899391/February 1, 2017/Toronto Raptors/Boston Celtics
+400899392/December 1, 2016/Orlando Magic/Memphis Grizzlies
+400899393/March 1, 2017/Washington Wizards/Toronto Raptors
+400899394/February 1, 2017/New York Knicks/Brooklyn Nets
+400899395/December 1, 2016/LA Clippers/Cleveland Cavaliers
+400899396/April 1, 2017/Orlando Magic/Brooklyn Nets
+400899397/February 1, 2017/Atlanta Hawks/Miami Heat
+400899398/March 1, 2017/Dallas Mavericks/Atlanta Hawks
+400899399/April 1, 2017/Sacramento Kings/Minnesota Timberwolves
+400899400/February 1, 2017/New Orleans Pelicans/Detroit Pistons
+400899401/April 1, 2017/Phoenix Suns/Portland Trail Blazers
+400899402/February 1, 2017/Philadelphia 76ers/Dallas Mavericks
+400899403/March 1, 2017/Philadelphia 76ers/Miami Heat
+400899404/February 1, 2017/Memphis Grizzlies/Denver Nuggets
+400899405/March 1, 2017/Denver Nuggets/Milwaukee Bucks
+400899406/April 2, 2017/Charlotte Hornets/Oklahoma City Thunder
+400899407/February 1, 2017/Milwaukee Bucks/Utah Jazz
+400899408/April 2, 2017/Memphis Grizzlies/Los Angeles Lakers
+400899409/March 1, 2017/Detroit Pistons/New Orleans Pelicans
+400899410/January 2, 2017/Oklahoma City Thunder/Milwaukee Bucks
+400899411/January 2, 2017/New Orleans Pelicans/Cleveland Cavaliers
+400899412/October 26, 2016/Sacramento Kings/Phoenix Suns
+400899413/January 2, 2017/Utah Jazz/Brooklyn Nets
+400899414/January 2, 2017/Orlando Magic/New York Knicks
+400899415/October 26, 2016/Houston Rockets/Los Angeles Lakers
+400899416/January 2, 2017/Charlotte Hornets/Chicago Bulls
+400899417/January 2, 2017/Washington Wizards/Houston Rockets
+400899418/January 2, 2017/Phoenix Suns/LA Clippers
+400899419/January 2, 2017/Denver Nuggets/Golden State Warriors
+400899420/October 27, 2016/Washington Wizards/Atlanta Hawks
+400899421/January 3, 2017/Minnesota Timberwolves/Philadelphia 76ers
+400899422/October 27, 2016/Boston Celtics/Chicago Bulls
+400899423/January 3, 2017/Utah Jazz/Boston Celtics
+400899424/October 27, 2016/San Antonio Spurs/Sacramento Kings
+400899425/January 3, 2017/Indiana Pacers/Detroit Pistons
+400899426/October 27, 2016/LA Clippers/Portland Trail Blazers
+400899427/January 3, 2017/Washington Wizards/Dallas Mavericks
+400899428/January 3, 2017/Toronto Raptors/San Antonio Spurs
+400899429/October 28, 2016/Cleveland Cavaliers/Toronto Raptors
+400899430/February 1, 2017/LA Clippers/Phoenix Suns
+400899431/April 2, 2017/Dallas Mavericks/Milwaukee Bucks
+400899432/March 1, 2017/Cleveland Cavaliers/Boston Celtics
+400899433/February 1, 2017/Chicago Bulls/Oklahoma City Thunder
+400899434/December 1, 2016/Miami Heat/Utah Jazz
+400899435/February 1, 2017/Charlotte Hornets/Golden State Warriors
+400899436/December 1, 2016/Houston Rockets/Golden State Warriors
+400899437/March 1, 2017/Indiana Pacers/San Antonio Spurs
+400899438/April 2, 2017/Boston Celtics/New York Knicks
+400899439/April 2, 2017/Chicago Bulls/New Orleans Pelicans
+400899440/April 2, 2017/Philadelphia 76ers/Toronto Raptors
+400899441/April 2, 2017/Atlanta Hawks/Brooklyn Nets
+400899442/March 1, 2017/Minnesota Timberwolves/Utah Jazz
+400899443/December 2, 2016/Orlando Magic/Philadelphia 76ers
+400899444/April 2, 2017/Denver Nuggets/Miami Heat
+400899445/March 1, 2017/Houston Rockets/LA Clippers
+400899446/February 2, 2017/Los Angeles Lakers/Washington Wizards
+400899447/December 2, 2016/Sacramento Kings/Boston Celtics
+400899448/March 1, 2017/Brooklyn Nets/Sacramento Kings
+400899449/February 2, 2017/Atlanta Hawks/Houston Rockets
+400899450/January 3, 2017/Sacramento Kings/Denver Nuggets
+400899451/January 3, 2017/Miami Heat/Phoenix Suns
+400899452/October 28, 2016/Indiana Pacers/Brooklyn Nets
+400899453/January 3, 2017/Memphis Grizzlies/Los Angeles Lakers
+400899454/October 28, 2016/Orlando Magic/Detroit Pistons
+400899455/October 28, 2016/Phoenix Suns/Oklahoma City Thunder
+400899456/October 28, 2016/Charlotte Hornets/Miami Heat
+400899457/October 28, 2016/Houston Rockets/Dallas Mavericks
+400899458/October 28, 2016/Los Angeles Lakers/Utah Jazz
+400899459/October 28, 2016/Golden State Warriors/New Orleans Pelicans
+400899470/February 2, 2017/Philadelphia 76ers/San Antonio Spurs
+400899471/April 2, 2017/Indiana Pacers/Cleveland Cavaliers
+400899472/February 2, 2017/Golden State Warriors/LA Clippers
+400899473/April 2, 2017/Utah Jazz/San Antonio Spurs
+400899474/April 2, 2017/Washington Wizards/Golden State Warriors
+400899475/April 2, 2017/Houston Rockets/Phoenix Suns
+400899476/October 29, 2016/Atlanta Hawks/Philadelphia 76ers
+400899477/October 29, 2016/Boston Celtics/Charlotte Hornets
+400899478/October 29, 2016/Memphis Grizzlies/New York Knicks
+400899479/October 29, 2016/Orlando Magic/Cleveland Cavaliers
+400899480/October 29, 2016/Indiana Pacers/Chicago Bulls
+400899481/October 29, 2016/Brooklyn Nets/Milwaukee Bucks
+400899482/October 29, 2016/New Orleans Pelicans/San Antonio Spurs
+400899483/October 29, 2016/Portland Trail Blazers/Denver Nuggets
+400899484/October 29, 2016/Minnesota Timberwolves/Sacramento Kings
+400899485/October 30, 2016/Utah Jazz/LA Clippers
+400899486/October 30, 2016/Golden State Warriors/Phoenix Suns
+400899487/October 30, 2016/San Antonio Spurs/Miami Heat
+400899488/October 30, 2016/Milwaukee Bucks/Detroit Pistons
+400899489/October 30, 2016/Washington Wizards/Memphis Grizzlies
+400899490/October 30, 2016/Los Angeles Lakers/Oklahoma City Thunder
+400899491/October 30, 2016/Dallas Mavericks/Houston Rockets
+400899492/October 31, 2016/Denver Nuggets/Toronto Raptors
+400899493/October 31, 2016/Chicago Bulls/Brooklyn Nets
+400899494/October 31, 2016/Sacramento Kings/Atlanta Hawks
+400899495/October 31, 2016/Phoenix Suns/LA Clippers
+400899496/November 1, 2016/Orlando Magic/Philadelphia 76ers
+400899497/November 1, 2016/Houston Rockets/Cleveland Cavaliers
+400899498/November 1, 2016/Los Angeles Lakers/Indiana Pacers
+400899499/November 1, 2016/Sacramento Kings/Miami Heat
+400899500/November 1, 2016/New York Knicks/Detroit Pistons
+400899501/November 1, 2016/Milwaukee Bucks/New Orleans Pelicans
+400899502/November 1, 2016/Memphis Grizzlies/Minnesota Timberwolves
+400899503/November 1, 2016/Utah Jazz/San Antonio Spurs
+400899504/November 1, 2016/Golden State Warriors/Portland Trail Blazers
+400899505/November 2, 2016/Toronto Raptors/Washington Wizards
+400899506/November 2, 2016/Philadelphia 76ers/Charlotte Hornets
+400899507/November 2, 2016/Detroit Pistons/Brooklyn Nets
+400899508/November 2, 2016/Houston Rockets/New York Knicks
+400899509/November 2, 2016/Los Angeles Lakers/Atlanta Hawks
+400899510/November 2, 2016/New Orleans Pelicans/Memphis Grizzlies
+400899511/November 2, 2016/Chicago Bulls/Boston Celtics
+400899512/November 2, 2016/Dallas Mavericks/Utah Jazz
+400899513/November 2, 2016/Portland Trail Blazers/Phoenix Suns
+400899514/November 2, 2016/Oklahoma City Thunder/LA Clippers
+400899515/November 3, 2016/Sacramento Kings/Orlando Magic
+400899516/November 3, 2016/Indiana Pacers/Milwaukee Bucks
+400899517/November 3, 2016/Denver Nuggets/Minnesota Timberwolves
+400899518/November 3, 2016/Boston Celtics/Cleveland Cavaliers
+400899519/November 3, 2016/Oklahoma City Thunder/Golden State Warriors
+400899520/November 4, 2016/Atlanta Hawks/Washington Wizards
+400899521/November 4, 2016/Miami Heat/Toronto Raptors
+400899522/November 4, 2016/Charlotte Hornets/Brooklyn Nets
+400899523/November 4, 2016/New York Knicks/Chicago Bulls
+400899524/November 4, 2016/LA Clippers/Memphis Grizzlies
+400899525/November 4, 2016/Phoenix Suns/New Orleans Pelicans
+400899526/November 4, 2016/Portland Trail Blazers/Dallas Mavericks
+400899527/November 4, 2016/San Antonio Spurs/Utah Jazz
+400899528/November 4, 2016/Golden State Warriors/Los Angeles Lakers
+400899529/November 5, 2016/Minnesota Timberwolves/Oklahoma City Thunder
+400899530/November 5, 2016/Cleveland Cavaliers/Philadelphia 76ers
+400899531/November 5, 2016/Washington Wizards/Orlando Magic
+400899532/November 5, 2016/Denver Nuggets/Detroit Pistons
+400899533/November 5, 2016/Chicago Bulls/Indiana Pacers
+400899534/November 5, 2016/Houston Rockets/Atlanta Hawks
+400899535/November 5, 2016/Sacramento Kings/Milwaukee Bucks
+400899536/November 5, 2016/LA Clippers/San Antonio Spurs
+400899537/November 6, 2016/Utah Jazz/New York Knicks
+400899538/November 6, 2016/Portland Trail Blazers/Memphis Grizzlies
+400899539/November 6, 2016/Sacramento Kings/Toronto Raptors
+400899540/November 6, 2016/Milwaukee Bucks/Dallas Mavericks
+400899541/November 6, 2016/Denver Nuggets/Boston Celtics
+400899542/November 6, 2016/Phoenix Suns/Los Angeles Lakers
+400899543/November 7, 2016/Utah Jazz/Philadelphia 76ers
+400899544/November 7, 2016/Houston Rockets/Washington Wizards
+400899545/November 7, 2016/Indiana Pacers/Charlotte Hornets
+400899546/November 7, 2016/Orlando Magic/Chicago Bulls
+400899547/November 7, 2016/Miami Heat/Oklahoma City Thunder
+400899548/November 7, 2016/Detroit Pistons/LA Clippers
+400899549/November 7, 2016/New Orleans Pelicans/Golden State Warriors
+400899550/November 8, 2016/Atlanta Hawks/Cleveland Cavaliers
+400899551/November 8, 2016/Minnesota Timberwolves/Brooklyn Nets
+400899552/November 8, 2016/Denver Nuggets/Memphis Grizzlies
+400899553/November 8, 2016/Phoenix Suns/Portland Trail Blazers
+400899554/November 8, 2016/Dallas Mavericks/Los Angeles Lakers
+400899555/November 8, 2016/New Orleans Pelicans/Sacramento Kings
+400899556/November 9, 2016/Brooklyn Nets/New York Knicks
+400899557/November 9, 2016/Boston Celtics/Washington Wizards
+400899558/November 9, 2016/Utah Jazz/Charlotte Hornets
+400899559/November 9, 2016/Minnesota Timberwolves/Orlando Magic
+400899560/November 9, 2016/Philadelphia 76ers/Indiana Pacers
+400899561/November 9, 2016/Chicago Bulls/Atlanta Hawks
+400899562/November 9, 2016/Toronto Raptors/Oklahoma City Thunder
+400899563/November 9, 2016/Detroit Pistons/Phoenix Suns
+400899564/November 9, 2016/Houston Rockets/San Antonio Spurs
+400899565/November 9, 2016/Portland Trail Blazers/LA Clippers
+400899566/November 9, 2016/Dallas Mavericks/Golden State Warriors
+400899567/November 10, 2016/New Orleans Pelicans/Milwaukee Bucks
+400899568/November 10, 2016/Chicago Bulls/Miami Heat
+400899569/November 10, 2016/Golden State Warriors/Denver Nuggets
+400899570/November 10, 2016/Los Angeles Lakers/Sacramento Kings
+400899571/November 11, 2016/Indiana Pacers/Philadelphia 76ers
+400899572/November 11, 2016/Cleveland Cavaliers/Washington Wizards
+400899573/November 11, 2016/Toronto Raptors/Charlotte Hornets
+400899574/November 11, 2016/Utah Jazz/Orlando Magic
+400899575/November 11, 2016/New York Knicks/Boston Celtics
+400899576/November 11, 2016/LA Clippers/Oklahoma City Thunder
+400899577/November 11, 2016/Detroit Pistons/San Antonio Spurs
+400899578/November 11, 2016/Sacramento Kings/Portland Trail Blazers
+400899579/November 12, 2016/Los Angeles Lakers/New Orleans Pelicans
+400899580/November 12, 2016/Boston Celtics/Indiana Pacers
+400899581/November 12, 2016/New York Knicks/Toronto Raptors
+400899582/November 12, 2016/Philadelphia 76ers/Atlanta Hawks
+400899583/November 12, 2016/Washington Wizards/Chicago Bulls
+400899584/November 12, 2016/San Antonio Spurs/Houston Rockets
+400899585/November 12, 2016/LA Clippers/Minnesota Timberwolves
+400899586/November 12, 2016/Utah Jazz/Miami Heat
+400899587/November 12, 2016/Memphis Grizzlies/Milwaukee Bucks
+400899588/November 12, 2016/Detroit Pistons/Denver Nuggets
+400899589/November 12, 2016/Brooklyn Nets/Phoenix Suns
+400899590/November 13, 2016/Charlotte Hornets/Cleveland Cavaliers
+400899591/November 13, 2016/Orlando Magic/Oklahoma City Thunder
+400899592/November 13, 2016/Los Angeles Lakers/Minnesota Timberwolves
+400899593/November 13, 2016/Phoenix Suns/Golden State Warriors
+400899594/November 13, 2016/Denver Nuggets/Portland Trail Blazers
+400899595/November 14, 2016/Orlando Magic/Indiana Pacers
+400899596/November 14, 2016/Dallas Mavericks/New York Knicks
+400899597/November 14, 2016/Oklahoma City Thunder/Detroit Pistons
+400899598/November 14, 2016/Boston Celtics/New Orleans Pelicans
+400899599/November 14, 2016/Philadelphia 76ers/Houston Rockets
+400899600/November 14, 2016/Miami Heat/San Antonio Spurs
+400899601/November 14, 2016/Memphis Grizzlies/Utah Jazz
+400899602/November 14, 2016/Brooklyn Nets/LA Clippers
+400899603/November 15, 2016/Toronto Raptors/Cleveland Cavaliers
+400899604/November 15, 2016/Atlanta Hawks/Miami Heat
+400899605/November 15, 2016/Charlotte Hornets/Minnesota Timberwolves
+400899606/November 15, 2016/Chicago Bulls/Portland Trail Blazers
+400899607/November 15, 2016/Brooklyn Nets/Los Angeles Lakers
+400899608/November 16, 2016/Washington Wizards/Philadelphia 76ers
+400899609/November 16, 2016/New Orleans Pelicans/Orlando Magic
+400899610/November 16, 2016/Cleveland Cavaliers/Indiana Pacers
+400899611/November 16, 2016/Dallas Mavericks/Boston Celtics
+400899612/November 16, 2016/Detroit Pistons/New York Knicks
+400899613/November 16, 2016/Milwaukee Bucks/Atlanta Hawks
+400899614/November 16, 2016/Houston Rockets/Oklahoma City Thunder
+400899615/November 16, 2016/Golden State Warriors/Toronto Raptors
+400899616/November 16, 2016/Phoenix Suns/Denver Nuggets
+400899617/November 16, 2016/Memphis Grizzlies/LA Clippers
+400899618/November 16, 2016/San Antonio Spurs/Sacramento Kings
+400899619/November 17, 2016/New York Knicks/Washington Wizards
+400899620/November 17, 2016/Milwaukee Bucks/Miami Heat
+400899621/November 17, 2016/Portland Trail Blazers/Houston Rockets
+400899622/November 17, 2016/Philadelphia 76ers/Minnesota Timberwolves
+400899623/November 17, 2016/Chicago Bulls/Utah Jazz
+400899624/November 18, 2016/Atlanta Hawks/Charlotte Hornets
+400899625/November 18, 2016/Detroit Pistons/Cleveland Cavaliers
+400899626/November 18, 2016/Phoenix Suns/Indiana Pacers
+400899627/November 18, 2016/Portland Trail Blazers/New Orleans Pelicans
+400899628/November 18, 2016/Brooklyn Nets/Oklahoma City Thunder
+400899629/November 18, 2016/Golden State Warriors/Boston Celtics
+400899630/November 18, 2016/Memphis Grizzlies/Dallas Mavericks
+400899631/November 18, 2016/Toronto Raptors/Denver Nuggets
+400899632/November 18, 2016/San Antonio Spurs/Los Angeles Lakers
+400899633/November 18, 2016/LA Clippers/Sacramento Kings
+400899634/November 19, 2016/Utah Jazz/Houston Rockets
+400899635/November 19, 2016/Charlotte Hornets/New Orleans Pelicans
+400899636/November 19, 2016/Miami Heat/Washington Wizards
+400899637/November 19, 2016/Dallas Mavericks/Orlando Magic
+400899638/November 19, 2016/Boston Celtics/Detroit Pistons
+400899639/November 19, 2016/Phoenix Suns/Philadelphia 76ers
+400899640/November 19, 2016/Minnesota Timberwolves/Memphis Grizzlies
+400899641/November 19, 2016/Golden State Warriors/Milwaukee Bucks
+400899642/November 19, 2016/Chicago Bulls/LA Clippers
+400899643/November 20, 2016/Atlanta Hawks/New York Knicks
+400899644/November 20, 2016/Portland Trail Blazers/Brooklyn Nets
+400899645/November 20, 2016/Indiana Pacers/Oklahoma City Thunder
+400899646/November 20, 2016/Toronto Raptors/Sacramento Kings
+400899647/November 20, 2016/Utah Jazz/Denver Nuggets
+400899648/November 20, 2016/Chicago Bulls/Los Angeles Lakers
+400899649/November 21, 2016/Miami Heat/Philadelphia 76ers
+400899650/November 21, 2016/Phoenix Suns/Washington Wizards
+400899651/November 21, 2016/Memphis Grizzlies/Charlotte Hornets
+400899652/November 21, 2016/Golden State Warriors/Indiana Pacers
+400899653/November 21, 2016/Houston Rockets/Detroit Pistons
+400899654/November 21, 2016/Orlando Magic/Milwaukee Bucks
+400899655/November 21, 2016/Boston Celtics/Minnesota Timberwolves
+400899656/November 21, 2016/Dallas Mavericks/San Antonio Spurs
+400899657/November 21, 2016/Toronto Raptors/LA Clippers
+400899658/November 22, 2016/Portland Trail Blazers/New York Knicks
+400899659/November 22, 2016/New Orleans Pelicans/Atlanta Hawks
+400899660/November 22, 2016/Chicago Bulls/Denver Nuggets
+400899661/November 22, 2016/Oklahoma City Thunder/Los Angeles Lakers
+400899662/November 23, 2016/Memphis Grizzlies/Philadelphia 76ers
+400899663/November 23, 2016/San Antonio Spurs/Charlotte Hornets
+400899664/November 23, 2016/Phoenix Suns/Orlando Magic
+400899665/November 23, 2016/Portland Trail Blazers/Cleveland Cavaliers
+400899666/November 23, 2016/Atlanta Hawks/Indiana Pacers
+400899667/November 23, 2016/Boston Celtics/Brooklyn Nets
+400899668/November 23, 2016/Miami Heat/Detroit Pistons
+400899669/November 23, 2016/Toronto Raptors/Houston Rockets
+400899670/November 23, 2016/LA Clippers/Dallas Mavericks
+400899671/November 23, 2016/Denver Nuggets/Utah Jazz
+400899672/November 23, 2016/Minnesota Timberwolves/New Orleans Pelicans
+400899673/November 23, 2016/Los Angeles Lakers/Golden State Warriors
+400899674/November 23, 2016/Oklahoma City Thunder/Sacramento Kings
+400899675/November 25, 2016/San Antonio Spurs/Boston Celtics
+400899676/November 25, 2016/Washington Wizards/Orlando Magic
+400899677/November 25, 2016/Dallas Mavericks/Cleveland Cavaliers
+400899678/November 25, 2016/Charlotte Hornets/New York Knicks
+400899679/November 25, 2016/Chicago Bulls/Philadelphia 76ers
+400899680/November 25, 2016/LA Clippers/Detroit Pistons
+400899681/November 25, 2016/Atlanta Hawks/Utah Jazz
+400899682/November 25, 2016/Toronto Raptors/Milwaukee Bucks
+400899683/November 25, 2016/Miami Heat/Memphis Grizzlies
+400899684/November 25, 2016/Brooklyn Nets/Indiana Pacers
+400899685/November 25, 2016/Oklahoma City Thunder/Denver Nuggets
+400899686/November 25, 2016/Minnesota Timberwolves/Phoenix Suns
+400899687/November 25, 2016/New Orleans Pelicans/Portland Trail Blazers
+400899688/November 25, 2016/Golden State Warriors/Los Angeles Lakers
+400899689/November 25, 2016/Houston Rockets/Sacramento Kings
+400899690/November 26, 2016/San Antonio Spurs/Washington Wizards
+400899691/November 26, 2016/New York Knicks/Charlotte Hornets
+400899692/November 26, 2016/Detroit Pistons/Oklahoma City Thunder
+400899693/November 26, 2016/Memphis Grizzlies/Miami Heat
+400899694/November 26, 2016/Minnesota Timberwolves/Golden State Warriors
+400899695/November 27, 2016/Cleveland Cavaliers/Philadelphia 76ers
+400899696/November 27, 2016/Denver Nuggets/Phoenix Suns
+400899697/November 27, 2016/Sacramento Kings/Brooklyn Nets
+400899698/November 27, 2016/Milwaukee Bucks/Orlando Magic
+400899699/November 27, 2016/LA Clippers/Indiana Pacers
+400899700/November 27, 2016/New Orleans Pelicans/Dallas Mavericks
+400899701/November 27, 2016/Houston Rockets/Portland Trail Blazers
+400899702/November 27, 2016/Atlanta Hawks/Los Angeles Lakers
+400899703/November 28, 2016/Sacramento Kings/Washington Wizards
+400899704/November 28, 2016/Philadelphia 76ers/Toronto Raptors
+400899705/November 28, 2016/Oklahoma City Thunder/New York Knicks
+400899706/November 28, 2016/Boston Celtics/Miami Heat
+400899707/November 28, 2016/Charlotte Hornets/Memphis Grizzlies
+400899708/November 28, 2016/Utah Jazz/Minnesota Timberwolves
+400899709/November 28, 2016/Atlanta Hawks/Golden State Warriors
+400899710/November 29, 2016/Detroit Pistons/Charlotte Hornets
+400899711/November 29, 2016/LA Clippers/Brooklyn Nets
+400899712/November 29, 2016/Cleveland Cavaliers/Milwaukee Bucks
+400899713/November 29, 2016/Los Angeles Lakers/New Orleans Pelicans
+400899714/November 29, 2016/Orlando Magic/San Antonio Spurs
+400899715/November 29, 2016/Houston Rockets/Utah Jazz
+400899716/November 30, 2016/Sacramento Kings/Philadelphia 76ers
+400899717/November 30, 2016/Detroit Pistons/Boston Celtics
+400899718/November 30, 2016/Memphis Grizzlies/Toronto Raptors
+400899719/November 30, 2016/Los Angeles Lakers/Chicago Bulls
+400899720/November 30, 2016/Washington Wizards/Oklahoma City Thunder
+400899721/November 30, 2016/New York Knicks/Minnesota Timberwolves
+400899722/November 30, 2016/San Antonio Spurs/Dallas Mavericks
+400899723/November 30, 2016/Miami Heat/Denver Nuggets
+400899724/November 30, 2016/Atlanta Hawks/Phoenix Suns
+400899725/November 30, 2016/Indiana Pacers/Portland Trail Blazers
+400899726/December 2, 2016/Los Angeles Lakers/Toronto Raptors
+400899727/December 2, 2016/Minnesota Timberwolves/New York Knicks
+400899728/December 2, 2016/Cleveland Cavaliers/Chicago Bulls
+400899729/December 2, 2016/LA Clippers/New Orleans Pelicans
+400899730/December 2, 2016/Detroit Pistons/Atlanta Hawks
+400899731/December 2, 2016/Washington Wizards/San Antonio Spurs
+400899732/December 2, 2016/Houston Rockets/Denver Nuggets
+400899733/December 3, 2016/Brooklyn Nets/Milwaukee Bucks
+400899734/December 3, 2016/Minnesota Timberwolves/Charlotte Hornets
+400899735/December 3, 2016/Atlanta Hawks/Toronto Raptors
+400899736/December 3, 2016/Boston Celtics/Philadelphia 76ers
+400899737/December 3, 2016/Los Angeles Lakers/Memphis Grizzlies
+400899738/December 3, 2016/Chicago Bulls/Dallas Mavericks
+400899739/December 3, 2016/Denver Nuggets/Utah Jazz
+400899740/December 3, 2016/Miami Heat/Portland Trail Blazers
+400899741/December 3, 2016/Phoenix Suns/Golden State Warriors
+400899742/December 4, 2016/Orlando Magic/Detroit Pistons
+400899743/December 4, 2016/New Orleans Pelicans/Oklahoma City Thunder
+400899744/December 4, 2016/Sacramento Kings/New York Knicks
+400899745/December 4, 2016/Indiana Pacers/LA Clippers
+400899746/December 5, 2016/Denver Nuggets/Philadelphia 76ers
+400899747/December 5, 2016/Cleveland Cavaliers/Toronto Raptors
+400899748/December 5, 2016/Washington Wizards/Brooklyn Nets
+400899749/December 5, 2016/Oklahoma City Thunder/Atlanta Hawks
+400899750/December 5, 2016/Portland Trail Blazers/Chicago Bulls
+400899751/December 5, 2016/San Antonio Spurs/Milwaukee Bucks
+400899752/December 5, 2016/Memphis Grizzlies/New Orleans Pelicans
+400899753/December 5, 2016/Boston Celtics/Houston Rockets
+400899754/December 5, 2016/Charlotte Hornets/Dallas Mavericks
+400899755/December 5, 2016/Utah Jazz/Los Angeles Lakers
+400899756/December 5, 2016/Indiana Pacers/Golden State Warriors
+400899757/December 6, 2016/Orlando Magic/Washington Wizards
+400899758/December 6, 2016/New York Knicks/Miami Heat
+400899759/December 6, 2016/Chicago Bulls/Detroit Pistons
+400899760/December 6, 2016/Philadelphia 76ers/Memphis Grizzlies
+400899761/December 6, 2016/San Antonio Spurs/Minnesota Timberwolves
+400899762/December 6, 2016/Phoenix Suns/Utah Jazz
+400899763/December 7, 2016/Detroit Pistons/Charlotte Hornets
+400899764/December 7, 2016/Boston Celtics/Orlando Magic
+400899765/December 7, 2016/Denver Nuggets/Brooklyn Nets
+400899766/December 7, 2016/Miami Heat/Atlanta Hawks
+400899767/December 7, 2016/Portland Trail Blazers/Milwaukee Bucks
+400899768/December 7, 2016/Los Angeles Lakers/Houston Rockets
+400899769/December 7, 2016/Cleveland Cavaliers/New York Knicks
+400899770/December 7, 2016/Sacramento Kings/Dallas Mavericks
+400899771/December 7, 2016/Indiana Pacers/Phoenix Suns
+400899772/December 7, 2016/Golden State Warriors/LA Clippers
+400899773/December 8, 2016/Minnesota Timberwolves/Toronto Raptors
+400899774/December 8, 2016/Denver Nuggets/Washington Wizards
+400899775/December 8, 2016/Portland Trail Blazers/Memphis Grizzlies
+400899776/December 8, 2016/Philadelphia 76ers/New Orleans Pelicans
+400899777/December 8, 2016/Golden State Warriors/Utah Jazz
+400899778/December 8, 2016/San Antonio Spurs/Chicago Bulls
+400899779/December 9, 2016/Orlando Magic/Charlotte Hornets
+400899780/December 9, 2016/Miami Heat/Cleveland Cavaliers
+400899781/December 9, 2016/Toronto Raptors/Boston Celtics
+400899782/December 9, 2016/Atlanta Hawks/Milwaukee Bucks
+400899783/December 9, 2016/Houston Rockets/Oklahoma City Thunder
+400899784/December 9, 2016/Detroit Pistons/Minnesota Timberwolves
+400899785/December 9, 2016/Indiana Pacers/Dallas Mavericks
+400899786/December 9, 2016/Phoenix Suns/Los Angeles Lakers
+400899787/December 9, 2016/New York Knicks/Sacramento Kings
+400899788/December 10, 2016/Milwaukee Bucks/Washington Wizards
+400899789/December 10, 2016/Denver Nuggets/Orlando Magic
+400899790/December 10, 2016/Portland Trail Blazers/Indiana Pacers
+400899791/December 10, 2016/Charlotte Hornets/Cleveland Cavaliers
+400899792/December 10, 2016/Miami Heat/Chicago Bulls
+400899793/December 10, 2016/Golden State Warriors/Memphis Grizzlies
+400899794/December 10, 2016/Dallas Mavericks/Houston Rockets
+400899795/December 10, 2016/Brooklyn Nets/San Antonio Spurs
+400899796/December 10, 2016/Sacramento Kings/Utah Jazz
+400899797/December 10, 2016/New Orleans Pelicans/LA Clippers
+400899798/December 11, 2016/Philadelphia 76ers/Detroit Pistons
+400899799/December 11, 2016/Boston Celtics/Oklahoma City Thunder
+400899800/December 11, 2016/Golden State Warriors/Minnesota Timberwolves
+400899801/December 11, 2016/New Orleans Pelicans/Phoenix Suns
+400899802/December 11, 2016/New York Knicks/Los Angeles Lakers
+400899803/December 12, 2016/Charlotte Hornets/Indiana Pacers
+400899804/December 12, 2016/Milwaukee Bucks/Toronto Raptors
+400899805/December 12, 2016/Washington Wizards/Miami Heat
+400899806/December 12, 2016/Brooklyn Nets/Houston Rockets
+400899807/December 12, 2016/Denver Nuggets/Dallas Mavericks
+400899808/December 12, 2016/Portland Trail Blazers/LA Clippers
+400899809/December 12, 2016/Los Angeles Lakers/Sacramento Kings
+400899810/December 13, 2016/Memphis Grizzlies/Cleveland Cavaliers
+400899811/December 13, 2016/Orlando Magic/Atlanta Hawks
+400899812/December 13, 2016/Minnesota Timberwolves/Chicago Bulls
+400899813/December 13, 2016/Golden State Warriors/New Orleans Pelicans
+400899814/December 13, 2016/New York Knicks/Phoenix Suns
+400899815/December 13, 2016/Oklahoma City Thunder/Portland Trail Blazers
+400899816/December 14, 2016/Toronto Raptors/Philadelphia 76ers
+400899817/December 14, 2016/Charlotte Hornets/Washington Wizards
+400899818/December 14, 2016/LA Clippers/Orlando Magic
+400899819/December 14, 2016/Indiana Pacers/Miami Heat
+400899820/December 14, 2016/Los Angeles Lakers/Brooklyn Nets
+400899821/December 14, 2016/Cleveland Cavaliers/Memphis Grizzlies
+400899822/December 14, 2016/Sacramento Kings/Houston Rockets
+400899823/December 14, 2016/Detroit Pistons/Dallas Mavericks
+400899824/December 14, 2016/Oklahoma City Thunder/Utah Jazz
+400899825/December 14, 2016/Boston Celtics/San Antonio Spurs
+400899826/December 15, 2016/Chicago Bulls/Milwaukee Bucks
+400899827/December 15, 2016/Indiana Pacers/New Orleans Pelicans
+400899828/December 15, 2016/Portland Trail Blazers/Denver Nuggets
+400899829/December 15, 2016/San Antonio Spurs/Phoenix Suns
+400899830/December 15, 2016/New York Knicks/Golden State Warriors
+400899831/December 16, 2016/Detroit Pistons/Washington Wizards
+400899832/December 16, 2016/Brooklyn Nets/Orlando Magic
+400899833/December 16, 2016/Charlotte Hornets/Boston Celtics
+400899834/December 16, 2016/Atlanta Hawks/Toronto Raptors
+400899835/December 16, 2016/Milwaukee Bucks/Chicago Bulls
+400899836/December 16, 2016/Sacramento Kings/Memphis Grizzlies
+400899837/December 16, 2016/New Orleans Pelicans/Houston Rockets
+400899838/December 16, 2016/Los Angeles Lakers/Philadelphia 76ers
+400899839/December 16, 2016/LA Clippers/Miami Heat
+400899840/December 16, 2016/Dallas Mavericks/Utah Jazz
+400899841/December 17, 2016/Phoenix Suns/Oklahoma City Thunder
+400899842/December 17, 2016/Indiana Pacers/Detroit Pistons
+400899843/December 17, 2016/Charlotte Hornets/Atlanta Hawks
+400899844/December 17, 2016/Los Angeles Lakers/Cleveland Cavaliers
+400899845/December 17, 2016/Houston Rockets/Minnesota Timberwolves
+400899846/December 17, 2016/New York Knicks/Denver Nuggets
+400899847/December 17, 2016/Portland Trail Blazers/Golden State Warriors
+400899848/December 18, 2016/LA Clippers/Washington Wizards
+400899849/December 18, 2016/Utah Jazz/Memphis Grizzlies
+400899850/December 18, 2016/Brooklyn Nets/Philadelphia 76ers
+400899851/December 18, 2016/Toronto Raptors/Orlando Magic
+400899852/December 18, 2016/Boston Celtics/Miami Heat
+400899853/December 18, 2016/Sacramento Kings/Dallas Mavericks
+400899854/December 18, 2016/New Orleans Pelicans/San Antonio Spurs
+400899855/December 19, 2016/Washington Wizards/Indiana Pacers
+400899856/December 19, 2016/Detroit Pistons/Chicago Bulls
+400899857/December 19, 2016/Atlanta Hawks/Oklahoma City Thunder
+400899858/December 19, 2016/Phoenix Suns/Minnesota Timberwolves
+400899859/December 19, 2016/Dallas Mavericks/Denver Nuggets
+400899860/December 20, 2016/New Orleans Pelicans/Philadelphia 76ers
+400899861/December 20, 2016/Los Angeles Lakers/Charlotte Hornets
+400899862/December 20, 2016/Brooklyn Nets/Toronto Raptors
+400899863/December 20, 2016/Indiana Pacers/New York Knicks
+400899864/December 20, 2016/Orlando Magic/Miami Heat
+400899865/December 20, 2016/Cleveland Cavaliers/Milwaukee Bucks
+400899866/December 20, 2016/Boston Celtics/Memphis Grizzlies
+400899867/December 20, 2016/San Antonio Spurs/Houston Rockets
+400899868/December 20, 2016/Denver Nuggets/LA Clippers
+400899869/December 20, 2016/Utah Jazz/Golden State Warriors
+400899870/December 20, 2016/Portland Trail Blazers/Sacramento Kings
+400899871/December 21, 2016/Milwaukee Bucks/Cleveland Cavaliers
+400899872/December 21, 2016/Minnesota Timberwolves/Atlanta Hawks
+400899873/December 21, 2016/Memphis Grizzlies/Detroit Pistons
+400899874/December 21, 2016/Washington Wizards/Chicago Bulls
+400899875/December 21, 2016/Oklahoma City Thunder/New Orleans Pelicans
+400899876/December 21, 2016/Sacramento Kings/Utah Jazz
+400899877/December 21, 2016/Houston Rockets/Phoenix Suns
+400899878/December 21, 2016/Dallas Mavericks/Portland Trail Blazers
+400899879/December 22, 2016/Golden State Warriors/Brooklyn Nets
+400899880/December 22, 2016/Orlando Magic/New York Knicks
+400899881/December 22, 2016/Los Angeles Lakers/Miami Heat
+400899882/December 22, 2016/Boston Celtics/Indiana Pacers
+400899883/December 22, 2016/San Antonio Spurs/LA Clippers
+400899884/December 23, 2016/Chicago Bulls/Charlotte Hornets
+400899885/December 23, 2016/Los Angeles Lakers/Orlando Magic
+400899886/December 23, 2016/Brooklyn Nets/Cleveland Cavaliers
+400899887/December 23, 2016/Oklahoma City Thunder/Boston Celtics
+400899888/December 23, 2016/Golden State Warriors/Detroit Pistons
+400899889/December 23, 2016/Washington Wizards/Milwaukee Bucks
+400899890/December 23, 2016/Houston Rockets/Memphis Grizzlies
+400899891/December 23, 2016/Miami Heat/New Orleans Pelicans
+400899892/December 23, 2016/Sacramento Kings/Minnesota Timberwolves
+400899893/December 23, 2016/Atlanta Hawks/Denver Nuggets
+400899894/December 23, 2016/Toronto Raptors/Utah Jazz
+400899895/December 23, 2016/Philadelphia 76ers/Phoenix Suns
+400899896/December 23, 2016/San Antonio Spurs/Portland Trail Blazers
+400899897/December 23, 2016/Dallas Mavericks/LA Clippers
+400899898/December 25, 2016/Boston Celtics/New York Knicks
+400899899/December 25, 2016/Golden State Warriors/Cleveland Cavaliers
+400899900/December 25, 2016/Chicago Bulls/San Antonio Spurs
+400899901/December 25, 2016/Minnesota Timberwolves/Oklahoma City Thunder
+400899902/December 25, 2016/LA Clippers/Los Angeles Lakers
+400899903/December 26, 2016/Milwaukee Bucks/Washington Wizards
+400899904/December 26, 2016/Memphis Grizzlies/Orlando Magic
+400899905/December 26, 2016/Charlotte Hornets/Brooklyn Nets
+400899906/December 26, 2016/Cleveland Cavaliers/Detroit Pistons
+400899907/December 26, 2016/Indiana Pacers/Chicago Bulls
+400899908/December 26, 2016/Dallas Mavericks/New Orleans Pelicans
+400899909/December 26, 2016/Phoenix Suns/Houston Rockets
+400899910/December 26, 2016/Atlanta Hawks/Minnesota Timberwolves
+400899911/December 26, 2016/Toronto Raptors/Portland Trail Blazers
+400899912/December 26, 2016/Denver Nuggets/LA Clippers
+400899913/December 26, 2016/Philadelphia 76ers/Sacramento Kings
+400899914/December 27, 2016/Memphis Grizzlies/Boston Celtics
+400899915/December 27, 2016/Oklahoma City Thunder/Miami Heat
+400899916/December 27, 2016/Houston Rockets/Dallas Mavericks
+400899917/December 27, 2016/Utah Jazz/Los Angeles Lakers
+400899918/December 28, 2016/Indiana Pacers/Washington Wizards
+400899919/December 28, 2016/Charlotte Hornets/Orlando Magic
+400899920/December 28, 2016/New York Knicks/Atlanta Hawks
+400899921/December 28, 2016/Milwaukee Bucks/Detroit Pistons
+400899922/December 28, 2016/Brooklyn Nets/Chicago Bulls
+400899923/December 28, 2016/LA Clippers/New Orleans Pelicans
+400899924/December 28, 2016/Phoenix Suns/San Antonio Spurs
+400899925/December 28, 2016/Minnesota Timberwolves/Denver Nuggets
+400899926/December 28, 2016/Sacramento Kings/Portland Trail Blazers
+400899927/December 28, 2016/Toronto Raptors/Golden State Warriors
+400899928/December 29, 2016/Miami Heat/Charlotte Hornets
+400899929/December 29, 2016/Oklahoma City Thunder/Memphis Grizzlies
+400899930/December 29, 2016/Boston Celtics/Cleveland Cavaliers
+400899931/December 29, 2016/Philadelphia 76ers/Utah Jazz
+400899932/December 29, 2016/Toronto Raptors/Phoenix Suns
+400899933/December 29, 2016/Dallas Mavericks/Los Angeles Lakers
+400899934/December 30, 2016/Chicago Bulls/Indiana Pacers
+400899935/December 30, 2016/Brooklyn Nets/Washington Wizards
+400899936/December 30, 2016/Miami Heat/Boston Celtics
+400899937/December 30, 2016/New York Knicks/New Orleans Pelicans
+400899938/December 30, 2016/LA Clippers/Houston Rockets
+400899939/December 30, 2016/Milwaukee Bucks/Minnesota Timberwolves
+400899940/December 30, 2016/Detroit Pistons/Atlanta Hawks
+400899941/December 30, 2016/Portland Trail Blazers/San Antonio Spurs
+400899942/December 30, 2016/Philadelphia 76ers/Denver Nuggets
+400899943/December 30, 2016/Dallas Mavericks/Golden State Warriors
+400899944/December 31, 2016/Memphis Grizzlies/Sacramento Kings
+400899945/December 31, 2016/Milwaukee Bucks/Chicago Bulls
+400899946/December 31, 2016/New York Knicks/Houston Rockets
+400899947/December 31, 2016/Cleveland Cavaliers/Charlotte Hornets
+400899948/December 31, 2016/Phoenix Suns/Utah Jazz
+400899949/December 31, 2016/LA Clippers/Oklahoma City Thunder
+400899950/January 4, 2017/Oklahoma City Thunder/Charlotte Hornets
+400899951/January 4, 2017/Atlanta Hawks/Orlando Magic
+400899952/January 4, 2017/Milwaukee Bucks/New York Knicks
+400899953/January 4, 2017/Chicago Bulls/Cleveland Cavaliers
+400899954/January 4, 2017/Memphis Grizzlies/LA Clippers
+400899955/January 4, 2017/Portland Trail Blazers/Golden State Warriors
+400899956/January 4, 2017/Miami Heat/Sacramento Kings
+400899957/January 5, 2017/Brooklyn Nets/Indiana Pacers
+400899958/January 5, 2017/Utah Jazz/Toronto Raptors
+400899959/January 5, 2017/Charlotte Hornets/Detroit Pistons
+400899960/January 5, 2017/Atlanta Hawks/New Orleans Pelicans
+400899961/January 5, 2017/Oklahoma City Thunder/Houston Rockets
+400899962/January 5, 2017/Phoenix Suns/Dallas Mavericks
+400899963/January 5, 2017/Los Angeles Lakers/Portland Trail Blazers
+400899964/January 5, 2017/San Antonio Spurs/Denver Nuggets
+400899965/January 6, 2017/Minnesota Timberwolves/Washington Wizards
+400899966/January 6, 2017/Houston Rockets/Orlando Magic
+400899967/January 6, 2017/Philadelphia 76ers/Boston Celtics
+400899968/January 6, 2017/Cleveland Cavaliers/Brooklyn Nets
+400899969/January 6, 2017/New York Knicks/Milwaukee Bucks
+400899970/January 6, 2017/Miami Heat/Los Angeles Lakers
+400899971/January 6, 2017/Memphis Grizzlies/Golden State Warriors
+400899972/January 6, 2017/LA Clippers/Sacramento Kings
+400899973/January 7, 2017/New York Knicks/Indiana Pacers
+400899974/January 7, 2017/New Orleans Pelicans/Boston Celtics
+400899975/January 7, 2017/Toronto Raptors/Chicago Bulls
+400899976/January 7, 2017/Denver Nuggets/Oklahoma City Thunder
+400899977/January 7, 2017/Utah Jazz/Minnesota Timberwolves
+400899978/January 7, 2017/Atlanta Hawks/Dallas Mavericks
+400899979/January 7, 2017/Charlotte Hornets/San Antonio Spurs
+400899980/January 7, 2017/Detroit Pistons/Portland Trail Blazers
+400899981/January 8, 2017/Philadelphia 76ers/Brooklyn Nets
+400899982/January 8, 2017/Miami Heat/LA Clippers
+400899983/January 8, 2017/Washington Wizards/Milwaukee Bucks
+400899984/January 8, 2017/Houston Rockets/Toronto Raptors
+400899985/January 8, 2017/Utah Jazz/Memphis Grizzlies
+400899986/January 8, 2017/Cleveland Cavaliers/Phoenix Suns
+400899987/January 8, 2017/Golden State Warriors/Sacramento Kings
+400899988/January 8, 2017/Orlando Magic/Los Angeles Lakers
+400899989/January 9, 2017/New Orleans Pelicans/New York Knicks
+400899990/January 9, 2017/Oklahoma City Thunder/Chicago Bulls
+400899991/January 9, 2017/Dallas Mavericks/Minnesota Timberwolves
+400899992/January 10, 2017/Chicago Bulls/Washington Wizards
+400899993/January 10, 2017/Boston Celtics/Toronto Raptors
+400899994/January 10, 2017/Atlanta Hawks/Brooklyn Nets
+400899995/January 10, 2017/Charlotte Hornets/Houston Rockets
+400899996/January 10, 2017/Milwaukee Bucks/San Antonio Spurs
+400899997/January 10, 2017/Cleveland Cavaliers/Utah Jazz
+400899998/January 10, 2017/Portland Trail Blazers/Los Angeles Lakers
+400899999/January 10, 2017/Miami Heat/Golden State Warriors
+400900000/January 10, 2017/Detroit Pistons/Sacramento Kings
+400900001/January 11, 2017/New York Knicks/Philadelphia 76ers
+400900002/January 11, 2017/Memphis Grizzlies/Oklahoma City Thunder
+400900003/January 11, 2017/Houston Rockets/Minnesota Timberwolves
+400900004/January 11, 2017/Washington Wizards/Boston Celtics
+400900005/January 11, 2017/Orlando Magic/LA Clippers
+400900006/January 11, 2017/Cleveland Cavaliers/Portland Trail Blazers
+400900007/January 12, 2017/New Orleans Pelicans/Brooklyn Nets
+400900008/January 12, 2017/Chicago Bulls/New York Knicks
+400900009/January 12, 2017/Los Angeles Lakers/San Antonio Spurs
+400900010/January 12, 2017/Indiana Pacers/Denver Nuggets
+400900011/January 12, 2017/Detroit Pistons/Golden State Warriors
+400900012/January 12, 2017/Dallas Mavericks/Phoenix Suns
+400900013/January 13, 2017/Brooklyn Nets/Toronto Raptors
+400900014/January 13, 2017/Charlotte Hornets/Philadelphia 76ers
+400900015/January 13, 2017/Miami Heat/Milwaukee Bucks
+400900016/January 13, 2017/Memphis Grizzlies/Houston Rockets
+400900017/January 13, 2017/Oklahoma City Thunder/Minnesota Timberwolves
+400900018/January 13, 2017/Boston Celtics/Atlanta Hawks
+400900019/January 13, 2017/Orlando Magic/Portland Trail Blazers
+400900020/January 13, 2017/Cleveland Cavaliers/Sacramento Kings
+400900021/January 13, 2017/Detroit Pistons/Utah Jazz
+400900022/January 14, 2017/Los Angeles Lakers/LA Clippers
+400900023/January 14, 2017/New Orleans Pelicans/Chicago Bulls
+400900024/January 14, 2017/Philadelphia 76ers/Washington Wizards
+400900025/January 14, 2017/Orlando Magic/Utah Jazz
+400900026/January 14, 2017/San Antonio Spurs/Phoenix Suns
+400900027/January 15, 2017/New York Knicks/Toronto Raptors
+400900028/January 15, 2017/Milwaukee Bucks/Atlanta Hawks
+400900029/January 15, 2017/Minnesota Timberwolves/Dallas Mavericks
+400900030/January 15, 2017/Houston Rockets/Brooklyn Nets
+400900031/January 15, 2017/Oklahoma City Thunder/Sacramento Kings
+400900032/January 15, 2017/Chicago Bulls/Memphis Grizzlies
+400900033/January 15, 2017/Detroit Pistons/Los Angeles Lakers
+400900034/January 16, 2017/Atlanta Hawks/New York Knicks
+400900035/January 16, 2017/Portland Trail Blazers/Washington Wizards
+400900036/January 16, 2017/Philadelphia 76ers/Milwaukee Bucks
+400900037/January 16, 2017/New Orleans Pelicans/Indiana Pacers
+400900038/January 16, 2017/Orlando Magic/Denver Nuggets
+400900039/January 16, 2017/Charlotte Hornets/Boston Celtics
+400900040/January 16, 2017/Cleveland Cavaliers/Golden State Warriors
+400900041/January 16, 2017/Utah Jazz/Phoenix Suns
+400900042/January 16, 2017/Oklahoma City Thunder/LA Clippers
+400900043/January 17, 2017/Toronto Raptors/Brooklyn Nets
+400900044/January 17, 2017/Houston Rockets/Miami Heat
+400900045/January 17, 2017/Dallas Mavericks/Chicago Bulls
+400900046/January 17, 2017/Minnesota Timberwolves/San Antonio Spurs
+400900047/January 17, 2017/Denver Nuggets/Los Angeles Lakers
+400900048/January 18, 2017/Toronto Raptors/Philadelphia 76ers
+400900049/January 18, 2017/Memphis Grizzlies/Washington Wizards
+400900050/January 18, 2017/Portland Trail Blazers/Charlotte Hornets
+400900051/January 18, 2017/New York Knicks/Boston Celtics
+400900052/January 18, 2017/Orlando Magic/New Orleans Pelicans
+400900053/January 18, 2017/Milwaukee Bucks/Houston Rockets
+400900054/January 18, 2017/Atlanta Hawks/Detroit Pistons
+400900055/January 18, 2017/Oklahoma City Thunder/Golden State Warriors
+400900056/January 18, 2017/Indiana Pacers/Sacramento Kings
+400900057/January 19, 2017/Phoenix Suns/Cleveland Cavaliers
+400900058/January 19, 2017/Dallas Mavericks/Miami Heat
+400900059/January 19, 2017/Washington Wizards/New York Knicks
+400900060/January 19, 2017/Denver Nuggets/San Antonio Spurs
+400900061/January 19, 2017/Minnesota Timberwolves/LA Clippers
+400900062/January 20, 2017/Portland Trail Blazers/Philadelphia 76ers
+400900063/January 20, 2017/Toronto Raptors/Charlotte Hornets
+400900064/January 20, 2017/Milwaukee Bucks/Orlando Magic
+400900065/January 20, 2017/Sacramento Kings/Memphis Grizzlies
+400900066/January 20, 2017/Brooklyn Nets/New Orleans Pelicans
+400900067/January 20, 2017/Golden State Warriors/Houston Rockets
+400900068/January 20, 2017/Chicago Bulls/Atlanta Hawks
+400900069/January 20, 2017/Utah Jazz/Dallas Mavericks
+400900070/January 20, 2017/Indiana Pacers/Los Angeles Lakers
+400900071/January 21, 2017/Portland Trail Blazers/Boston Celtics
+400900072/January 21, 2017/Washington Wizards/Detroit Pistons
+400900073/January 21, 2017/Brooklyn Nets/Charlotte Hornets
+400900074/January 21, 2017/Philadelphia 76ers/Atlanta Hawks
+400900075/January 21, 2017/Phoenix Suns/New York Knicks
+400900076/January 21, 2017/Milwaukee Bucks/Miami Heat
+400900077/January 21, 2017/Houston Rockets/Memphis Grizzlies
+400900078/January 21, 2017/San Antonio Spurs/Cleveland Cavaliers
+400900079/January 21, 2017/LA Clippers/Denver Nuggets
+400900080/January 21, 2017/Indiana Pacers/Utah Jazz
+400900081/January 21, 2017/Sacramento Kings/Chicago Bulls
+400900082/January 22, 2017/Golden State Warriors/Orlando Magic
+400900083/January 22, 2017/Los Angeles Lakers/Dallas Mavericks
+400900084/January 22, 2017/Phoenix Suns/Toronto Raptors
+400900085/January 22, 2017/Denver Nuggets/Minnesota Timberwolves
+400900086/January 23, 2017/Washington Wizards/Charlotte Hornets
+400900087/January 23, 2017/San Antonio Spurs/Brooklyn Nets
+400900088/January 23, 2017/LA Clippers/Atlanta Hawks
+400900089/January 23, 2017/Golden State Warriors/Miami Heat
+400900090/January 23, 2017/Sacramento Kings/Detroit Pistons
+400900091/January 23, 2017/Houston Rockets/Milwaukee Bucks
+400900092/January 23, 2017/Cleveland Cavaliers/New Orleans Pelicans
+400900093/January 23, 2017/New York Knicks/Indiana Pacers
+400900094/January 23, 2017/Oklahoma City Thunder/Utah Jazz
+400900095/January 24, 2017/San Antonio Spurs/Toronto Raptors
+400900096/January 24, 2017/LA Clippers/Philadelphia 76ers
+400900097/January 24, 2017/Boston Celtics/Washington Wizards
+400900098/January 24, 2017/Chicago Bulls/Orlando Magic
+400900099/January 24, 2017/Utah Jazz/Denver Nuggets
+400900100/January 24, 2017/Minnesota Timberwolves/Phoenix Suns
+400900101/January 25, 2017/Sacramento Kings/Cleveland Cavaliers
+400900102/January 25, 2017/Houston Rockets/Boston Celtics
+400900103/January 25, 2017/Miami Heat/Brooklyn Nets
+400900104/January 25, 2017/Atlanta Hawks/Chicago Bulls
+400900105/January 25, 2017/Philadelphia 76ers/Milwaukee Bucks
+400900106/January 25, 2017/Toronto Raptors/Memphis Grizzlies
+400900107/January 25, 2017/Oklahoma City Thunder/New Orleans Pelicans
+400900108/January 25, 2017/Golden State Warriors/Charlotte Hornets
+400900109/January 25, 2017/New York Knicks/Dallas Mavericks
+400900110/January 25, 2017/Los Angeles Lakers/Portland Trail Blazers
+400900111/January 26, 2017/Dallas Mavericks/Oklahoma City Thunder
+400900112/January 26, 2017/Indiana Pacers/Minnesota Timberwolves
+400900113/January 26, 2017/Phoenix Suns/Denver Nuggets
+400900114/January 26, 2017/Los Angeles Lakers/Utah Jazz
+400900115/January 27, 2017/Houston Rockets/Philadelphia 76ers
+400900116/January 27, 2017/Brooklyn Nets/Cleveland Cavaliers
+400900117/January 27, 2017/Sacramento Kings/Indiana Pacers
+400900118/January 27, 2017/Orlando Magic/Boston Celtics
+400900119/January 27, 2017/Milwaukee Bucks/Toronto Raptors
+400900120/January 27, 2017/Charlotte Hornets/New York Knicks
+400900121/January 27, 2017/Miami Heat/Chicago Bulls
+400900122/January 27, 2017/San Antonio Spurs/New Orleans Pelicans
+400900123/January 27, 2017/Washington Wizards/Atlanta Hawks
+400900124/January 27, 2017/Memphis Grizzlies/Portland Trail Blazers
+400900125/January 28, 2017/Sacramento Kings/Charlotte Hornets
+400900126/January 28, 2017/Detroit Pistons/Miami Heat
+400900127/January 28, 2017/Boston Celtics/Milwaukee Bucks
+400900128/January 28, 2017/LA Clippers/Golden State Warriors
+400900129/January 28, 2017/Memphis Grizzlies/Utah Jazz
+400900130/January 28, 2017/Denver Nuggets/Phoenix Suns
+400900131/January 28, 2017/Brooklyn Nets/Minnesota Timberwolves
+400900132/January 29, 2017/New York Knicks/Atlanta Hawks
+400900133/January 29, 2017/Oklahoma City Thunder/Cleveland Cavaliers
+400900134/January 29, 2017/Houston Rockets/Indiana Pacers
+400900135/January 29, 2017/Washington Wizards/New Orleans Pelicans
+400900136/January 29, 2017/Orlando Magic/Toronto Raptors
+400900137/January 29, 2017/Philadelphia 76ers/Chicago Bulls
+400900138/January 29, 2017/Dallas Mavericks/San Antonio Spurs
+400900139/January 29, 2017/Golden State Warriors/Portland Trail Blazers
+400900140/January 30, 2017/Brooklyn Nets/Miami Heat
+400900141/January 30, 2017/Orlando Magic/Minnesota Timberwolves
+400900142/January 30, 2017/Detroit Pistons/Boston Celtics
+400900143/January 30, 2017/Cleveland Cavaliers/Dallas Mavericks
+400900144/January 30, 2017/Memphis Grizzlies/Phoenix Suns
+400900145/January 31, 2017/New York Knicks/Washington Wizards
+400900146/January 31, 2017/New Orleans Pelicans/Toronto Raptors
+400900147/January 31, 2017/Sacramento Kings/Houston Rockets
+400900148/January 31, 2017/Oklahoma City Thunder/San Antonio Spurs
+400900149/January 31, 2017/Charlotte Hornets/Portland Trail Blazers
+400900150/January 31, 2017/Denver Nuggets/Los Angeles Lakers
+400900151/February 3, 2017/Toronto Raptors/Orlando Magic
+400900152/February 3, 2017/Indiana Pacers/Brooklyn Nets
+400900153/February 3, 2017/Minnesota Timberwolves/Detroit Pistons
+400900154/February 3, 2017/Chicago Bulls/Houston Rockets
+400900155/February 3, 2017/Memphis Grizzlies/Oklahoma City Thunder
+400900156/February 3, 2017/Los Angeles Lakers/Boston Celtics
+400900157/February 3, 2017/Milwaukee Bucks/Denver Nuggets
+400900158/February 3, 2017/Phoenix Suns/Sacramento Kings
+400900159/February 3, 2017/Dallas Mavericks/Portland Trail Blazers
+400900160/February 4, 2017/New Orleans Pelicans/Washington Wizards
+400900161/February 4, 2017/Orlando Magic/Atlanta Hawks
+400900162/February 4, 2017/Detroit Pistons/Indiana Pacers
+400900163/February 4, 2017/Philadelphia 76ers/Miami Heat
+400900164/February 4, 2017/Cleveland Cavaliers/New York Knicks
+400900165/February 4, 2017/Charlotte Hornets/Utah Jazz
+400900166/February 4, 2017/Milwaukee Bucks/Phoenix Suns
+400900167/February 4, 2017/Denver Nuggets/San Antonio Spurs
+400900168/February 4, 2017/Memphis Grizzlies/Minnesota Timberwolves
+400900169/February 4, 2017/Golden State Warriors/Sacramento Kings
+400900170/February 5, 2017/Toronto Raptors/Brooklyn Nets
+400900171/February 5, 2017/LA Clippers/Boston Celtics
+400900172/February 5, 2017/Portland Trail Blazers/Oklahoma City Thunder
+400900173/February 6, 2017/Los Angeles Lakers/New York Knicks
+400900174/February 6, 2017/Cleveland Cavaliers/Washington Wizards
+400900175/February 6, 2017/Oklahoma City Thunder/Indiana Pacers
+400900176/February 6, 2017/LA Clippers/Toronto Raptors
+400900177/February 6, 2017/Utah Jazz/Atlanta Hawks
+400900178/February 6, 2017/Philadelphia 76ers/Detroit Pistons
+400900179/February 6, 2017/Phoenix Suns/New Orleans Pelicans
+400900180/February 6, 2017/Miami Heat/Minnesota Timberwolves
+400900181/February 6, 2017/Dallas Mavericks/Denver Nuggets
+400900182/February 6, 2017/San Antonio Spurs/Memphis Grizzlies
+400900183/February 6, 2017/Chicago Bulls/Sacramento Kings
+400900184/February 7, 2017/Brooklyn Nets/Charlotte Hornets
+400900185/February 7, 2017/Orlando Magic/Houston Rockets
+400900186/February 7, 2017/Portland Trail Blazers/Dallas Mavericks
+400900187/February 8, 2017/San Antonio Spurs/Philadelphia 76ers
+400900188/February 8, 2017/Cleveland Cavaliers/Indiana Pacers
+400900189/February 8, 2017/Washington Wizards/Brooklyn Nets
+400900190/February 8, 2017/Denver Nuggets/Atlanta Hawks
+400900191/February 8, 2017/Los Angeles Lakers/Detroit Pistons
+400900192/February 8, 2017/Miami Heat/Milwaukee Bucks
+400900193/February 8, 2017/Phoenix Suns/Memphis Grizzlies
+400900194/February 8, 2017/Utah Jazz/New Orleans Pelicans
+400900195/February 8, 2017/Toronto Raptors/Minnesota Timberwolves
+400900196/February 8, 2017/LA Clippers/New York Knicks
+400900197/February 8, 2017/Chicago Bulls/Golden State Warriors
+400900198/February 8, 2017/Boston Celtics/Sacramento Kings
+400900199/February 9, 2017/Houston Rockets/Charlotte Hornets
+400900200/February 9, 2017/Philadelphia 76ers/Orlando Magic
+400900201/February 9, 2017/Cleveland Cavaliers/Oklahoma City Thunder
+400900202/February 9, 2017/Utah Jazz/Dallas Mavericks
+400900203/February 9, 2017/Boston Celtics/Portland Trail Blazers
+400900204/February 10, 2017/Miami Heat/Brooklyn Nets
+400900205/February 10, 2017/Denver Nuggets/New York Knicks
+400900206/February 10, 2017/San Antonio Spurs/Detroit Pistons
+400900207/February 10, 2017/Los Angeles Lakers/Milwaukee Bucks
+400900208/February 10, 2017/Golden State Warriors/Memphis Grizzlies
+400900209/February 10, 2017/New Orleans Pelicans/Minnesota Timberwolves
+400900210/February 10, 2017/Indiana Pacers/Washington Wizards
+400900211/February 10, 2017/Atlanta Hawks/Sacramento Kings
+400900212/February 10, 2017/Chicago Bulls/Phoenix Suns
+400900213/February 11, 2017/LA Clippers/Charlotte Hornets
+400900214/February 11, 2017/Milwaukee Bucks/Indiana Pacers
+400900215/February 11, 2017/Miami Heat/Philadelphia 76ers
+400900216/February 11, 2017/Denver Nuggets/Cleveland Cavaliers
+400900217/February 11, 2017/Phoenix Suns/Houston Rockets
+400900218/February 11, 2017/Golden State Warriors/Oklahoma City Thunder
+400900219/February 11, 2017/Orlando Magic/Dallas Mavericks
+400900220/February 11, 2017/Boston Celtics/Utah Jazz
+400900221/February 12, 2017/Chicago Bulls/Minnesota Timberwolves
+400900222/February 12, 2017/San Antonio Spurs/New York Knicks
+400900223/February 12, 2017/Detroit Pistons/Toronto Raptors
+400900224/February 12, 2017/New Orleans Pelicans/Sacramento Kings
+400900225/February 13, 2017/Oklahoma City Thunder/Washington Wizards
+400900226/February 13, 2017/Philadelphia 76ers/Charlotte Hornets
+400900227/February 13, 2017/Memphis Grizzlies/Brooklyn Nets
+400900228/February 13, 2017/Orlando Magic/Miami Heat
+400900229/February 13, 2017/Detroit Pistons/Milwaukee Bucks
+400900230/February 13, 2017/San Antonio Spurs/Indiana Pacers
+400900231/February 13, 2017/Boston Celtics/Dallas Mavericks
+400900232/February 13, 2017/Golden State Warriors/Denver Nuggets
+400900233/February 13, 2017/LA Clippers/Utah Jazz
+400900234/February 13, 2017/New Orleans Pelicans/Phoenix Suns
+400900235/February 13, 2017/Atlanta Hawks/Portland Trail Blazers
+400900236/February 14, 2017/Toronto Raptors/Chicago Bulls
+400900237/February 14, 2017/Cleveland Cavaliers/Minnesota Timberwolves
+400900238/ESPN/ / 
+400900239/February 14, 2017/Sacramento Kings/Los Angeles Lakers
+400900240/February 15, 2017/San Antonio Spurs/Orlando Magic
+400900241/February 15, 2017/Indiana Pacers/Cleveland Cavaliers
+400900242/February 15, 2017/Philadelphia 76ers/Boston Celtics
+400900243/February 15, 2017/Charlotte Hornets/Toronto Raptors
+400900244/February 15, 2017/Milwaukee Bucks/Brooklyn Nets
+400900245/February 15, 2017/Dallas Mavericks/Detroit Pistons
+400900246/February 15, 2017/New Orleans Pelicans/Memphis Grizzlies
+400900247/February 15, 2017/Miami Heat/Houston Rockets
+400900248/February 15, 2017/Minnesota Timberwolves/Denver Nuggets
+400900249/February 15, 2017/Portland Trail Blazers/Utah Jazz
+400900250/February 15, 2017/Los Angeles Lakers/Phoenix Suns
+400900251/February 15, 2017/New York Knicks/Oklahoma City Thunder
+400900252/February 15, 2017/Atlanta Hawks/LA Clippers
+400900253/February 15, 2017/Sacramento Kings/Golden State Warriors
+400900254/February 16, 2017/Washington Wizards/Indiana Pacers
+400900255/February 16, 2017/Boston Celtics/Chicago Bulls
+400900256/February 23, 2017/Portland Trail Blazers/Orlando Magic
+400900257/February 23, 2017/Charlotte Hornets/Detroit Pistons
+400900258/February 23, 2017/Houston Rockets/New Orleans Pelicans
+400900259/February 23, 2017/New York Knicks/Cleveland Cavaliers
+400900260/February 23, 2017/LA Clippers/Golden State Warriors
+400900261/February 23, 2017/Denver Nuggets/Sacramento Kings
+400900262/February 24, 2017/Washington Wizards/Philadelphia 76ers
+400900263/February 24, 2017/Memphis Grizzlies/Indiana Pacers
+400900264/February 24, 2017/Boston Celtics/Toronto Raptors
+400900265/February 24, 2017/Phoenix Suns/Chicago Bulls
+400900266/February 24, 2017/Utah Jazz/Milwaukee Bucks
+400900267/February 24, 2017/Los Angeles Lakers/Oklahoma City Thunder
+400900268/February 24, 2017/Dallas Mavericks/Minnesota Timberwolves
+400900269/February 24, 2017/Miami Heat/Atlanta Hawks
+400900270/February 24, 2017/Brooklyn Nets/Denver Nuggets
+400900271/February 24, 2017/San Antonio Spurs/LA Clippers
+400900272/February 25, 2017/Charlotte Hornets/Sacramento Kings
+400900273/February 25, 2017/Atlanta Hawks/Orlando Magic
+400900274/February 25, 2017/Philadelphia 76ers/New York Knicks
+400900275/February 25, 2017/Indiana Pacers/Miami Heat
+400900276/February 25, 2017/New Orleans Pelicans/Dallas Mavericks
+400900277/February 25, 2017/Chicago Bulls/Cleveland Cavaliers
+400900278/February 25, 2017/Minnesota Timberwolves/Houston Rockets
+400900279/February 25, 2017/Brooklyn Nets/Golden State Warriors
+400900280/February 26, 2017/San Antonio Spurs/Los Angeles Lakers
+400900281/February 26, 2017/Phoenix Suns/Milwaukee Bucks
+400900282/February 26, 2017/Memphis Grizzlies/Denver Nuggets
+400900283/February 26, 2017/Utah Jazz/Washington Wizards
+400900284/February 26, 2017/Portland Trail Blazers/Toronto Raptors
+400900285/February 26, 2017/Boston Celtics/Detroit Pistons
+400900286/February 26, 2017/New Orleans Pelicans/Oklahoma City Thunder
+400900287/February 26, 2017/Charlotte Hornets/LA Clippers
+400900288/February 27, 2017/Toronto Raptors/New York Knicks
+400900289/February 27, 2017/Golden State Warriors/Philadelphia 76ers
+400900290/February 27, 2017/Milwaukee Bucks/Cleveland Cavaliers
+400900291/February 27, 2017/Atlanta Hawks/Boston Celtics
+400900292/February 27, 2017/Indiana Pacers/Houston Rockets
+400900293/February 27, 2017/Miami Heat/Dallas Mavericks
+400900294/February 27, 2017/Minnesota Timberwolves/Sacramento Kings
+400900295/February 28, 2017/Golden State Warriors/Washington Wizards
+400900296/February 28, 2017/Portland Trail Blazers/Detroit Pistons
+400900297/February 28, 2017/Denver Nuggets/Chicago Bulls
+400900298/February 28, 2017/Phoenix Suns/Memphis Grizzlies
+400900299/February 28, 2017/Utah Jazz/Oklahoma City Thunder
+400900300/February 28, 2017/Charlotte Hornets/Los Angeles Lakers
+400900301/March 2, 2017/Golden State Warriors/Chicago Bulls
+400900302/March 2, 2017/Charlotte Hornets/Phoenix Suns
+400900303/March 2, 2017/Oklahoma City Thunder/Portland Trail Blazers
+400900304/March 3, 2017/New York Knicks/Philadelphia 76ers
+400900305/March 3, 2017/Toronto Raptors/Washington Wizards
+400900306/March 3, 2017/Miami Heat/Orlando Magic
+400900307/March 3, 2017/LA Clippers/Milwaukee Bucks
+400900308/March 3, 2017/Cleveland Cavaliers/Atlanta Hawks
+400900309/March 3, 2017/Memphis Grizzlies/Dallas Mavericks
+400900310/March 3, 2017/Brooklyn Nets/Utah Jazz
+400900311/March 3, 2017/Oklahoma City Thunder/Phoenix Suns
+400900312/March 3, 2017/San Antonio Spurs/New Orleans Pelicans
+400900313/March 3, 2017/Boston Celtics/Los Angeles Lakers
+400900314/March 4, 2017/Detroit Pistons/Philadelphia 76ers
+400900315/March 4, 2017/Toronto Raptors/Milwaukee Bucks
+400900316/March 4, 2017/Cleveland Cavaliers/Miami Heat
+400900317/March 4, 2017/LA Clippers/Chicago Bulls
+400900318/March 4, 2017/Charlotte Hornets/Denver Nuggets
+400900319/March 4, 2017/Memphis Grizzlies/Houston Rockets
+400900320/March 4, 2017/Minnesota Timberwolves/San Antonio Spurs
+400900321/March 4, 2017/Brooklyn Nets/Portland Trail Blazers
+400900322/March 5, 2017/Indiana Pacers/Atlanta Hawks
+400900323/March 5, 2017/Golden State Warriors/New York Knicks
+400900324/March 5, 2017/Boston Celtics/Phoenix Suns
+400900325/March 5, 2017/Orlando Magic/Washington Wizards
+400900326/March 5, 2017/Utah Jazz/Sacramento Kings
+400900327/March 5, 2017/Oklahoma City Thunder/Dallas Mavericks
+400900328/March 5, 2017/New Orleans Pelicans/Los Angeles Lakers
+400900329/March 6, 2017/Milwaukee Bucks/Philadelphia 76ers
+400900330/March 6, 2017/New York Knicks/Orlando Magic
+400900331/March 6, 2017/Miami Heat/Cleveland Cavaliers
+400900332/March 6, 2017/Golden State Warriors/Atlanta Hawks
+400900333/March 6, 2017/Chicago Bulls/Detroit Pistons
+400900334/March 6, 2017/Brooklyn Nets/Memphis Grizzlies
+400900335/March 6, 2017/Portland Trail Blazers/Minnesota Timberwolves
+400900336/March 6, 2017/Indiana Pacers/Charlotte Hornets
+400900337/March 6, 2017/Houston Rockets/San Antonio Spurs
+400900338/March 6, 2017/Sacramento Kings/Denver Nuggets
+400900339/March 6, 2017/New Orleans Pelicans/Utah Jazz
+400900340/March 6, 2017/Boston Celtics/LA Clippers
+400900341/March 7, 2017/Portland Trail Blazers/Oklahoma City Thunder
+400900342/March 7, 2017/Los Angeles Lakers/Dallas Mavericks
+400900343/March 7, 2017/Washington Wizards/Phoenix Suns
+400900344/March 8, 2017/Chicago Bulls/Orlando Magic
+400900345/March 8, 2017/Brooklyn Nets/Atlanta Hawks
+400900346/March 8, 2017/Charlotte Hornets/Miami Heat
+400900347/March 8, 2017/New York Knicks/Milwaukee Bucks
+400900348/March 8, 2017/Toronto Raptors/New Orleans Pelicans
+400900349/March 8, 2017/Utah Jazz/Houston Rockets
+400900350/March 8, 2017/LA Clippers/Minnesota Timberwolves
+400900351/March 8, 2017/Detroit Pistons/Indiana Pacers
+400900352/March 8, 2017/Sacramento Kings/San Antonio Spurs
+400900353/March 8, 2017/Washington Wizards/Denver Nuggets
+400900354/March 8, 2017/Boston Celtics/Golden State Warriors
+400900355/March 9, 2017/Cleveland Cavaliers/Detroit Pistons
+400900356/March 9, 2017/LA Clippers/Memphis Grizzlies
+400900357/March 9, 2017/San Antonio Spurs/Oklahoma City Thunder
+400900358/March 9, 2017/Philadelphia 76ers/Portland Trail Blazers
+400900359/March 9, 2017/Los Angeles Lakers/Phoenix Suns
+400900360/March 10, 2017/Orlando Magic/Charlotte Hornets
+400900361/March 10, 2017/Houston Rockets/Chicago Bulls
+400900362/March 10, 2017/Indiana Pacers/Milwaukee Bucks
+400900363/March 10, 2017/Golden State Warriors/Minnesota Timberwolves
+400900364/March 10, 2017/Toronto Raptors/Atlanta Hawks
+400900365/March 10, 2017/Boston Celtics/Denver Nuggets
+400900366/March 10, 2017/Brooklyn Nets/Dallas Mavericks
+400900367/March 10, 2017/Washington Wizards/Sacramento Kings
+400900368/March 11, 2017/Utah Jazz/Oklahoma City Thunder
+400900369/March 11, 2017/Philadelphia 76ers/LA Clippers
+400900370/March 11, 2017/New York Knicks/Detroit Pistons
+400900371/March 11, 2017/New Orleans Pelicans/Charlotte Hornets
+400900372/March 11, 2017/Cleveland Cavaliers/Orlando Magic
+400900373/March 11, 2017/Minnesota Timberwolves/Milwaukee Bucks
+400900374/March 11, 2017/Toronto Raptors/Miami Heat
+400900375/March 11, 2017/Golden State Warriors/San Antonio Spurs
+400900376/March 11, 2017/Atlanta Hawks/Memphis Grizzlies
+400900377/March 11, 2017/Phoenix Suns/Dallas Mavericks
+400900378/March 11, 2017/Washington Wizards/Portland Trail Blazers
+400900379/March 11, 2017/Denver Nuggets/Sacramento Kings
+400900380/March 12, 2017/Chicago Bulls/Boston Celtics
+400900381/March 12, 2017/New York Knicks/Brooklyn Nets
+400900382/March 12, 2017/Miami Heat/Indiana Pacers
+400900383/March 12, 2017/Portland Trail Blazers/Phoenix Suns
+400900384/March 12, 2017/Cleveland Cavaliers/Houston Rockets
+400900385/March 12, 2017/Philadelphia 76ers/Los Angeles Lakers
+400900386/March 13, 2017/Chicago Bulls/Charlotte Hornets
+400900387/March 13, 2017/Dallas Mavericks/Toronto Raptors
+400900388/March 13, 2017/Milwaukee Bucks/Memphis Grizzlies
+400900389/March 13, 2017/Atlanta Hawks/San Antonio Spurs
+400900390/March 13, 2017/Washington Wizards/Minnesota Timberwolves
+400900391/March 13, 2017/LA Clippers/Utah Jazz
+400900392/March 13, 2017/Orlando Magic/Sacramento Kings
+400900393/March 13, 2017/Los Angeles Lakers/Denver Nuggets
+400900394/March 14, 2017/Detroit Pistons/Cleveland Cavaliers
+400900395/March 14, 2017/Oklahoma City Thunder/Brooklyn Nets
+400900396/March 14, 2017/Indiana Pacers/New York Knicks
+400900397/March 14, 2017/Portland Trail Blazers/New Orleans Pelicans
+400900398/March 14, 2017/Philadelphia 76ers/Golden State Warriors
+400900399/March 15, 2017/Dallas Mavericks/Washington Wizards
+400900400/March 15, 2017/Charlotte Hornets/Indiana Pacers
+400900401/March 15, 2017/Minnesota Timberwolves/Boston Celtics
+400900402/March 15, 2017/New Orleans Pelicans/Miami Heat
+400900403/March 15, 2017/Utah Jazz/Detroit Pistons
+400900404/March 15, 2017/Memphis Grizzlies/Chicago Bulls
+400900405/March 15, 2017/Los Angeles Lakers/Houston Rockets
+400900406/March 15, 2017/Portland Trail Blazers/San Antonio Spurs
+400900407/March 15, 2017/Sacramento Kings/Phoenix Suns
+400900408/March 15, 2017/Milwaukee Bucks/LA Clippers
+400900409/March 16, 2017/Utah Jazz/Cleveland Cavaliers
+400900410/March 16, 2017/Oklahoma City Thunder/Toronto Raptors
+400900411/March 16, 2017/Brooklyn Nets/New York Knicks
+400900412/March 16, 2017/Memphis Grizzlies/Atlanta Hawks
+400900413/March 16, 2017/LA Clippers/Denver Nuggets
+400900414/March 16, 2017/Orlando Magic/Golden State Warriors
+400900415/March 17, 2017/Dallas Mavericks/Philadelphia 76ers
+400900416/March 17, 2017/Chicago Bulls/Washington Wizards
+400900417/March 17, 2017/Boston Celtics/Brooklyn Nets
+400900418/March 17, 2017/Toronto Raptors/Detroit Pistons
+400900419/March 17, 2017/Houston Rockets/New Orleans Pelicans
+400900420/March 17, 2017/Minnesota Timberwolves/Miami Heat
+400900421/March 17, 2017/Orlando Magic/Phoenix Suns
+400900422/March 17, 2017/Milwaukee Bucks/Los Angeles Lakers
+400900423/March 18, 2017/Sacramento Kings/Oklahoma City Thunder
+400900424/March 18, 2017/Portland Trail Blazers/Atlanta Hawks
+400900425/March 18, 2017/Washington Wizards/Charlotte Hornets
+400900426/March 18, 2017/Cleveland Cavaliers/LA Clippers
+400900427/March 18, 2017/Utah Jazz/Chicago Bulls
+400900428/March 18, 2017/San Antonio Spurs/Memphis Grizzlies
+400900429/March 18, 2017/Houston Rockets/Denver Nuggets
+400900430/March 18, 2017/Milwaukee Bucks/Golden State Warriors
+400900431/March 19, 2017/Dallas Mavericks/Brooklyn Nets
+400900432/March 19, 2017/Boston Celtics/Philadelphia 76ers
+400900433/March 19, 2017/Phoenix Suns/Detroit Pistons
+400900434/March 19, 2017/Minnesota Timberwolves/New Orleans Pelicans
+400900435/March 19, 2017/Indiana Pacers/Toronto Raptors
+400900436/March 19, 2017/Portland Trail Blazers/Miami Heat
+400900437/March 19, 2017/Sacramento Kings/San Antonio Spurs
+400900438/March 19, 2017/Cleveland Cavaliers/Los Angeles Lakers
+400900439/March 20, 2017/Atlanta Hawks/Charlotte Hornets
+400900440/March 20, 2017/Philadelphia 76ers/Orlando Magic
+400900441/March 20, 2017/Utah Jazz/Indiana Pacers
+400900442/March 20, 2017/Washington Wizards/Boston Celtics
+400900443/March 20, 2017/Denver Nuggets/Houston Rockets
+400900444/March 20, 2017/Golden State Warriors/Oklahoma City Thunder
+400900445/March 20, 2017/New York Knicks/LA Clippers
+400900446/March 21, 2017/Chicago Bulls/Toronto Raptors
+400900447/March 21, 2017/Detroit Pistons/Brooklyn Nets
+400900448/March 21, 2017/Phoenix Suns/Miami Heat
+400900449/March 21, 2017/Memphis Grizzlies/New Orleans Pelicans
+400900450/March 21, 2017/Golden State Warriors/Dallas Mavericks
+400900451/March 21, 2017/San Antonio Spurs/Minnesota Timberwolves
+400900452/March 21, 2017/Milwaukee Bucks/Portland Trail Blazers
+400900453/March 21, 2017/LA Clippers/Los Angeles Lakers
+400900454/March 22, 2017/Charlotte Hornets/Orlando Magic
+400900455/March 22, 2017/Indiana Pacers/Boston Celtics
+400900456/March 22, 2017/Detroit Pistons/Chicago Bulls
+400900457/March 22, 2017/Philadelphia 76ers/Oklahoma City Thunder
+400900458/March 22, 2017/Atlanta Hawks/Washington Wizards
+400900459/March 22, 2017/Cleveland Cavaliers/Denver Nuggets
+400900460/March 22, 2017/Milwaukee Bucks/Sacramento Kings
+400900461/March 22, 2017/New York Knicks/Utah Jazz
+400900462/March 23, 2017/Phoenix Suns/Brooklyn Nets
+400900463/March 23, 2017/Toronto Raptors/Miami Heat
+400900464/March 23, 2017/LA Clippers/Dallas Mavericks
+400900465/March 23, 2017/Memphis Grizzlies/San Antonio Spurs
+400900466/March 23, 2017/New York Knicks/Portland Trail Blazers
+400900467/March 24, 2017/Brooklyn Nets/Washington Wizards
+400900468/March 24, 2017/Cleveland Cavaliers/Charlotte Hornets
+400900469/March 24, 2017/Detroit Pistons/Orlando Magic
+400900470/March 24, 2017/Denver Nuggets/Indiana Pacers
+400900471/March 24, 2017/Phoenix Suns/Boston Celtics
+400900472/March 24, 2017/Philadelphia 76ers/Chicago Bulls
+400900473/March 24, 2017/Atlanta Hawks/Milwaukee Bucks
+400900474/March 24, 2017/New Orleans Pelicans/Houston Rockets
+400900475/March 24, 2017/Minnesota Timberwolves/Los Angeles Lakers
+400900476/March 24, 2017/Sacramento Kings/Golden State Warriors
+400900477/March 25, 2017/Utah Jazz/LA Clippers
+400900478/March 25, 2017/Washington Wizards/Cleveland Cavaliers
+400900479/March 25, 2017/Toronto Raptors/Dallas Mavericks
+400900480/March 25, 2017/New York Knicks/San Antonio Spurs
+400900481/March 25, 2017/Minnesota Timberwolves/Portland Trail Blazers
+400900482/March 26, 2017/Phoenix Suns/Charlotte Hornets
+400900483/March 26, 2017/Brooklyn Nets/Atlanta Hawks
+400900484/March 26, 2017/Sacramento Kings/LA Clippers
+400900485/March 26, 2017/Chicago Bulls/Milwaukee Bucks
+400900486/March 26, 2017/Oklahoma City Thunder/Houston Rockets
+400900487/March 26, 2017/Philadelphia 76ers/Indiana Pacers
+400900488/March 26, 2017/Miami Heat/Boston Celtics
+400900489/March 26, 2017/Memphis Grizzlies/Golden State Warriors
+400900490/March 26, 2017/New Orleans Pelicans/Denver Nuggets
+400900491/March 26, 2017/Portland Trail Blazers/Los Angeles Lakers
+400900492/March 27, 2017/Orlando Magic/Toronto Raptors
+400900493/March 27, 2017/Detroit Pistons/New York Knicks
+400900494/March 27, 2017/Cleveland Cavaliers/San Antonio Spurs
+400900495/March 27, 2017/Oklahoma City Thunder/Dallas Mavericks
+400900496/March 27, 2017/Memphis Grizzlies/Sacramento Kings
+400900497/March 27, 2017/New Orleans Pelicans/Utah Jazz
+400900498/March 28, 2017/Milwaukee Bucks/Charlotte Hornets
+400900499/March 28, 2017/Minnesota Timberwolves/Indiana Pacers
+400900500/March 28, 2017/Philadelphia 76ers/Brooklyn Nets
+400900501/March 28, 2017/Phoenix Suns/Atlanta Hawks
+400900502/March 28, 2017/Miami Heat/Detroit Pistons
+400900503/March 28, 2017/Golden State Warriors/Houston Rockets
+400900504/March 28, 2017/Denver Nuggets/Portland Trail Blazers
+400900505/March 28, 2017/Washington Wizards/Los Angeles Lakers
+400900506/March 29, 2017/Atlanta Hawks/Philadelphia 76ers
+400900507/March 29, 2017/Oklahoma City Thunder/Orlando Magic
+400900508/March 29, 2017/Milwaukee Bucks/Boston Celtics
+400900509/March 29, 2017/Charlotte Hornets/Toronto Raptors
+400900510/March 29, 2017/Miami Heat/New York Knicks
+400900511/March 29, 2017/Indiana Pacers/Memphis Grizzlies
+400900512/March 29, 2017/Dallas Mavericks/New Orleans Pelicans
+400900513/March 29, 2017/Golden State Warriors/San Antonio Spurs
+400900514/March 29, 2017/Washington Wizards/LA Clippers
+400900515/March 29, 2017/Utah Jazz/Sacramento Kings
+400900516/March 30, 2017/Brooklyn Nets/Detroit Pistons
+400900517/March 30, 2017/Cleveland Cavaliers/Chicago Bulls
+400900518/March 30, 2017/Los Angeles Lakers/Minnesota Timberwolves
+400900519/March 30, 2017/LA Clippers/Phoenix Suns
+400900520/March 30, 2017/Houston Rockets/Portland Trail Blazers
+400900521/March 31, 2017/Indiana Pacers/Toronto Raptors
+400900522/March 31, 2017/Denver Nuggets/Charlotte Hornets
+400900523/March 31, 2017/Philadelphia 76ers/Cleveland Cavaliers
+400900524/March 31, 2017/Orlando Magic/Boston Celtics
+400900525/March 31, 2017/Detroit Pistons/Milwaukee Bucks
+400900526/March 31, 2017/Dallas Mavericks/Memphis Grizzlies
+400900527/March 31, 2017/Sacramento Kings/New Orleans Pelicans
+400900528/March 31, 2017/New York Knicks/Miami Heat
+400900529/March 31, 2017/Washington Wizards/Utah Jazz
+400900530/March 31, 2017/San Antonio Spurs/Oklahoma City Thunder
+400900531/March 31, 2017/Houston Rockets/Golden State Warriors
+400900532/April 4, 2017/Brooklyn Nets/Philadelphia 76ers
+400900533/April 4, 2017/Charlotte Hornets/Washington Wizards
+400900534/April 4, 2017/Orlando Magic/Cleveland Cavaliers
+400900535/April 4, 2017/Toronto Raptors/Indiana Pacers
+400900536/April 4, 2017/Denver Nuggets/New Orleans Pelicans
+400900537/April 4, 2017/Milwaukee Bucks/Oklahoma City Thunder
+400900538/April 4, 2017/Chicago Bulls/New York Knicks
+400900539/April 4, 2017/Memphis Grizzlies/San Antonio Spurs
+400900540/April 4, 2017/Minnesota Timberwolves/Golden State Warriors
+400900541/April 4, 2017/Dallas Mavericks/Sacramento Kings
+400900542/April 4, 2017/Portland Trail Blazers/Utah Jazz
+400900543/April 5, 2017/Miami Heat/Charlotte Hornets
+400900544/April 5, 2017/Toronto Raptors/Detroit Pistons
+400900545/April 5, 2017/Oklahoma City Thunder/Memphis Grizzlies
+400900546/April 5, 2017/Denver Nuggets/Houston Rockets
+400900547/April 5, 2017/Cleveland Cavaliers/Boston Celtics
+400900548/April 5, 2017/Los Angeles Lakers/San Antonio Spurs
+400900549/April 5, 2017/Golden State Warriors/Phoenix Suns
+400900550/April 5, 2017/Dallas Mavericks/LA Clippers
+400900551/April 6, 2017/Chicago Bulls/Philadelphia 76ers
+400900552/April 6, 2017/Brooklyn Nets/Orlando Magic
+400900553/April 6, 2017/Milwaukee Bucks/Indiana Pacers
+400900554/April 6, 2017/Washington Wizards/New York Knicks
+400900555/April 6, 2017/Boston Celtics/Atlanta Hawks
+400900556/April 6, 2017/Minnesota Timberwolves/Portland Trail Blazers
+400900557/April 7, 2017/Atlanta Hawks/Cleveland Cavaliers
+400900558/April 7, 2017/Miami Heat/Toronto Raptors
+400900559/April 7, 2017/New York Knicks/Memphis Grizzlies
+400900560/April 7, 2017/Detroit Pistons/Houston Rockets
+400900561/April 7, 2017/San Antonio Spurs/Dallas Mavericks
+400900562/April 7, 2017/New Orleans Pelicans/Denver Nuggets
+400900563/April 7, 2017/Minnesota Timberwolves/Utah Jazz
+400900564/April 7, 2017/Oklahoma City Thunder/Phoenix Suns
+400900565/April 7, 2017/Sacramento Kings/Los Angeles Lakers
+400900566/April 8, 2017/Chicago Bulls/Brooklyn Nets
+400900567/April 8, 2017/Boston Celtics/Charlotte Hornets
+400900568/April 8, 2017/Indiana Pacers/Orlando Magic
+400900569/April 8, 2017/Milwaukee Bucks/Philadelphia 76ers
+400900570/April 8, 2017/Miami Heat/Washington Wizards
+400900571/April 8, 2017/LA Clippers/San Antonio Spurs
+400900572/April 8, 2017/Utah Jazz/Portland Trail Blazers
+400900573/April 8, 2017/New Orleans Pelicans/Golden State Warriors
+400900574/April 9, 2017/Toronto Raptors/New York Knicks
+400900575/April 9, 2017/Cleveland Cavaliers/Atlanta Hawks
+400900576/April 9, 2017/Oklahoma City Thunder/Denver Nuggets
+400900577/April 9, 2017/Dallas Mavericks/Phoenix Suns
+400900578/April 9, 2017/Houston Rockets/Sacramento Kings
+400900579/April 9, 2017/Detroit Pistons/Memphis Grizzlies
+400900580/April 9, 2017/Minnesota Timberwolves/Los Angeles Lakers
+400900581/April 10, 2017/Indiana Pacers/Philadelphia 76ers
+400900582/April 10, 2017/Brooklyn Nets/Boston Celtics
+400900583/April 10, 2017/Cleveland Cavaliers/Miami Heat
+400900584/April 10, 2017/Orlando Magic/Chicago Bulls
+400900585/April 10, 2017/Charlotte Hornets/Milwaukee Bucks
+400900586/April 10, 2017/Washington Wizards/Detroit Pistons
+400900587/April 10, 2017/San Antonio Spurs/Portland Trail Blazers
+400900588/April 10, 2017/Houston Rockets/LA Clippers
+400900589/April 10, 2017/Utah Jazz/Golden State Warriors
+400900590/April 11, 2017/Charlotte Hornets/Atlanta Hawks
+400900591/April 11, 2017/Oklahoma City Thunder/Minnesota Timberwolves
+400900592/April 11, 2017/Denver Nuggets/Dallas Mavericks
+400900593/April 11, 2017/New Orleans Pelicans/Los Angeles Lakers
+400900594/April 11, 2017/Phoenix Suns/Sacramento Kings
+400900595/April 12, 2017/Detroit Pistons/Orlando Magic
+400900596/April 12, 2017/Toronto Raptors/Cleveland Cavaliers
+400900597/April 12, 2017/Milwaukee Bucks/Boston Celtics
+400900598/April 12, 2017/Philadelphia 76ers/New York Knicks
+400900599/April 12, 2017/Washington Wizards/Miami Heat
+400900600/April 12, 2017/Brooklyn Nets/Chicago Bulls
+400900601/April 12, 2017/Dallas Mavericks/Memphis Grizzlies
+400900602/April 12, 2017/Minnesota Timberwolves/Houston Rockets
+400900603/April 12, 2017/Denver Nuggets/Oklahoma City Thunder
+400900604/April 12, 2017/Atlanta Hawks/Indiana Pacers
+400900605/April 12, 2017/San Antonio Spurs/Utah Jazz
+400900606/April 12, 2017/Sacramento Kings/LA Clippers
+400900607/April 12, 2017/Los Angeles Lakers/Golden State Warriors
+400900608/April 12, 2017/New Orleans Pelicans/Portland Trail Blazers

@@ -1,0 +1,198 @@
+html {
+  height: 100px;
+  width: 350px;
+}
+
+*:focus {
+  outline: none;
+}
+
+/* Header & Footer */
+#header,
+#footer {
+  text-align: center;
+}
+
+  #date {
+    font-family: "Avenir", -apple-system, "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+  }
+
+  #prevDate,
+  #nextDate {
+    background-color: #fff;
+    border: 1px solid #bbb;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: -4px;
+    vertical-align: middle;
+  }
+
+  #prevDate:hover,
+  #nextDate:hover {
+    background-color: #f0f0f0;
+  }
+
+  #espn {
+    font-size: 10px;
+  }
+
+/* Games */
+ul {
+  display: inline;
+  font-family: "Calibri", -apple-system, "Roboto", Helvetica, Arial, sans-serif;
+  list-style: none;
+}
+
+  li {
+    background-color: #fdfdfd;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 15px;
+    padding: 5px;
+    margin: 2px;
+    width: 305px;
+  }
+    
+    li:nth-child(even) {
+      background-color: #f7f7f7;
+    }
+
+    li:hover {
+      background-color: #f0f0f0;
+    }
+
+    .record {
+      color: #606060;
+      font-size: 10px;
+      padding-left: 4px;
+    }
+
+    .winning {
+      color: #ff2400;
+    }
+
+    .won {
+      font-weight: bold;
+    }
+
+    .score {
+      float: right;
+    }
+
+    .game-time {
+      font-size: 12px;
+      float: right;
+      font-weight: bold;
+    }
+
+#no-games {
+  font-weight: bold;
+}
+
+/* Box score */ 
+article {
+  font-family: "Avenir", -apple-system, "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  overflow-x: scroll;
+}
+  button,
+  .abbr,
+  .boxscore-legend,
+  .boxscore-team-stats,
+  .table-footnote,
+  .toggle-btn {
+    display: none;
+  }
+
+  img {
+    margin-bottom: 2px;
+    margin-right: 10px;
+    vertical-align: middle;
+    width: 20px;
+  }
+
+  .team-name {
+    color: #2b2c2d;
+    background-color: #fff;
+    display: inline-block;
+    float:left;
+    font-size: 11px;
+    font-weight: 600;
+    padding-top: 10px;
+    position: absolute;
+    text-align: left;
+    width: 120px;
+    z-index: 1000020;
+  }
+
+  #boxscore {
+    width: 320px;
+  }
+
+  #no-boxscore {
+    font-weight: bold;
+  }
+
+  .mod-data {
+    margin-left: 120px;
+    overflow-x: scroll;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+    tr:nth-child(even),
+    tr:nth-child(even) td.name {
+      background-color: #f9f9f9;
+    }
+
+    th {
+      color: #48494a;
+      border-bottom: 1px solid #ddd;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 10px 0 4px 15px;
+      text-align: right;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    td {
+      color: #666;
+      font-size: 12px;
+      padding-left: 15px;
+      padding-top: 4px;
+      padding-bottom: 4px;
+      text-align: right;
+      white-space: nowrap;
+    }  
+      a {
+        color: #06c;
+        text-decoration: none;
+      }
+
+      .name {
+        background-color: #fff;
+        left: 0;
+        position: absolute;
+        text-align: left;
+        top: auto;
+        white-space: nowrap;
+        width: 120px;
+      }
+
+      .position {
+        color: #555;
+        font-size: 8px;
+        padding-left: 4px;
+      }
+
+      .dnp {
+        text-align: left;
+        font-size: 10px;
+      }
+
+      .highlight {
+        font-weight: bold;
+      }
